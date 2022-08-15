@@ -1,0 +1,49 @@
+body {
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: larger;
+}
+.menu{
+    list-style: none;
+     font-family:cursive;
+    float:right;
+     top:10px;
+     right:30px;
+     cursor: pointer;
+     color:black;
+     background-color: black;
+     width: 100%;
+ }
+ .links{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+   .links:hover {
+    background-color:dodgerblue;
+}
+#systemimage {
+    border-radius: 20px;
+}
+#satellite {
+    border-radius: 20px;
+}
+table, th, td {
+    border:1px solid black;
+}
+.jumbotron {
+    background-color: aqua;
+    border-radius: 20px;
+}
+#contact {
+    background-color: black;
+}
+#announce {
+    color: aliceblue;
+}
